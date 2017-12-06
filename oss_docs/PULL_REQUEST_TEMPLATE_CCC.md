@@ -14,7 +14,7 @@ Please describe any customer facing impact of this change. This can be positive 
 
 Please describe any relevant performance impact of this change. This can be positive or negative impact. How did you characterize/test the performance impact?
 
-# How Has This Been Tested?
+## How Has This Been Tested?
 
 Please describe the tests that you ran to verify your changes. Provide instructions so others can reproduce. Please also list any relevant details for your test configuration.
 
@@ -34,14 +34,14 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 * Toolchain version:
 * SDK version:
 
-# Reviews
+## Reviews
 
 Please identify two developers to review this change
 
 - [ ] @personA
 - [ ] @personB
 
-# Checklist:
+## Checklist:
 
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
