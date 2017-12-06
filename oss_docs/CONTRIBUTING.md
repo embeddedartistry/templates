@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guide
 
 Write something nice and instructive as an intro. Talk about what kind of contributions you are interested in.
 
