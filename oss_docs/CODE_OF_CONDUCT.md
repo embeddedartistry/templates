@@ -11,13 +11,13 @@
 
 ## Summary
 
-As contributors and maintainers of the **[INSERT PROJECT]**, we pledge to respect everyone who contributes by posting issues, updating documentation, submitting pull requests, providing feedback in comments, and any other activities.
+As contributors and maintainers of Embedded Artistry projects, we pledge to respect everyone who contributes by posting issues, updating documentation, submitting pull requests, providing feedback in comments, and any other activities.
 
 Communication regarding this project through any channel must be constructive and never resort to personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct. Courtesy and respect shall be extended to everyone involved in this project. Our experiences as individuals differs widely, and as such contributors are expected to be respectful of differing viewpoints and experiences.
 
-We expect all contributors to uphold our standards of conduct. If any member of the community violates this code of conduct, the maintainers of the **[INSERT PROJECT]** will take action. We reserve the right to remove issues, comments, and PRs that do not comply with our conduct standards. Repeated or significant offenses will result in blocked accounts and disassociation with this project.
+We expect all contributors to uphold our standards of conduct. If any member of the community violates this code of conduct, the Embedded Artistry team and project mainteners will take action. We reserve the right to remove issues, comments, and PRs that do not comply with our conduct standards. Repeated or significant offenses will result in blocked accounts and disassociation with this project.
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at **[INSERT EMAIL ADDRESS]**.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at phillip@embeddedartistry.com.
 
 ## Our Standards
 
@@ -36,7 +36,7 @@ Examples of unacceptable behavior by participants include:
   advances
 * Trolling
 * Insults or other derogatory comments
-* Perosnal or political attacks
+* Personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
@@ -53,7 +53,9 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[INSERT EMAIL ADDRESS]**. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at phillip@embeddedartistry.com.
+
+All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
