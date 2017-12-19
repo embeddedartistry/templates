@@ -27,7 +27,7 @@ If you're not looking for some kinds of contributions, note that up front:
 	1. [Style Guidelines](#style-guidelines)
 	1. [Code Formatting Rules](#code-formatting)
 	1. [Whitespace Cleanup](#whitespace-cleanup)
-1. [Pull Request Guidelines](#pull-request-guidelines)
+1. [Pull Request Guidelines](#pull-request-process)
 	1. [Review Process](#review-process)
 	1. [Addressing Feedback](#addressing-feedback)
 1. [Community](#community)
@@ -311,7 +311,7 @@ showing what others have built.
 * Write about other people’s projects based on this project. Show how
 it’s used in daily life. Take screenshots and make videos!
 
-[0]: docs/CODE_OF_CONDUCT.md
+[0]: CODE_OF_CONDUCT.md
 [1]: style_guidelines.md
 [2]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [3]: http://makeapullrequest.com/
