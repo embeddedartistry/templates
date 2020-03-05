@@ -45,20 +45,20 @@ If not, lay some ground rules down up front.
 
 Include Short Links to Important Resources:
 
-* docs: handbook / roadmap
+* docs: handbook / road map
 * bugs: issue tracker / bug report tool
 * comms: forum link, developer list, IRC/email
 * wiki
 
 ## Questions
 
-How do you prefer people to ask questions? Via an issue? Is there an IRC channel, google group, or other way to get help? Should issues that are questions get a specific label? Can they email you directly?
+How do you prefer people to ask questions? Via an issue? Is there an IRC channel, Google group, or other way to get help? Should issues that are questions get a specific label? Can they email you directly?
 
 ## Feature Requests
 
-Provide information on the process for requsting new features. Do you have a specific label that should be applied? Is sign-off needed?
+Provide information on the process for requesting new features. Do you have a specific label that should be applied? Is sign-off needed?
 
-If you have a roadmap, goals, works in progress, or a development philosophy, make sure to share the information. Try to make sure that users have enough information to evaluate whether a feature request is appropriate for your project up front. Examples:
+If you have a road map, goals, works in progress, or a development philosophy, make sure to share the information. Try to make sure that users have enough information to evaluate whether a feature request is appropriate for your project up front. Examples:
 
 > Please create a new GitHub issue for any major changes and enhancements that you wish to make. Please provide the feature you would like to see, why you need it, and how it will work. Discuss your ideas transparently and get community feedback before proceeding.
 
@@ -93,7 +93,7 @@ Include notes for how users can improve the documentation.
 > For large fixes, please build and test the documentation before submitting the PR to be sure you haven't accidentally introduced any layout or formatting issues.
 
 ```
-Provide instructions on buildling and viewing documentation
+Provide instructions on building and viewing documentation
 ```
 
 ## Contributing Code
@@ -104,7 +104,7 @@ If you have a label for beginner issues, talk about that here so they know where
 
 > Unsure where to begin contributing to Atom? You can start by looking through these beginner and help-wanted issues: Beginner issues - issues which should only require a few lines of code, and a test or two. Help wanted issues - issues which should be a bit more involved than beginner issues.
 
-Working on your first open source project or pull request? Her are some helpful tutorials:
+Working on your first open source project or pull request? Here are some helpful tutorials:
 
 * [How to Contribute to an Open Source Project on GitHub][2]
 * [Make a Pull Request][3]
@@ -118,7 +118,7 @@ Install these dependencies:
 with some examples
 ```
 
-Provide some instructions for your workflow (e.g. fork the repository)
+Provide some instructions for your work flow (e.g. fork the repository)
 
 > You will need to fork the main repository to work on your changes. Simply navigate to our GitHub page and click the "Fork" button at the top. Once you've forked the repository, you can clone your new repository and start making edits.
 
@@ -155,9 +155,9 @@ What is your development process?
 
 > This project follows the [git flow](http://nvie.com/posts/a-successful-git-branching-model/) branching model of product development.
 
-Talk about branches people should work on. Sspecifically, where is the starting point? `master`, `development`, etc.
+Talk about branches people should work on. Specifically, where is the starting point? `master`, `development`, etc.
 
-> You should be using the master branch for the most stable release; please review [release notes](https://github.com/openopps/openopps-platform/releases) regularly. We do releases every week or two and send out notes. If you want to keep up with the latest changes, we work in the `dev` branch.  If you are using dev, keep an eagle-eye on commits and/or join our daily standup.
+> You should be using the master branch for the most stable release; please review [release notes](https://github.com/openopps/openopps-platform/releases) regularly. We do releases every week or two and send out notes. If you want to keep up with the latest changes, we work in the `dev` branch.  If you are using dev, keep an eagle-eye on commits and/or join our daily stand-up.
 
 ### Building the Project
 
@@ -230,7 +230,7 @@ references", such as which issues were fixed.
 
 ## Pull Request Process
 
-Do you have any labelling conventions?
+Do you have any labeling conventions?
 
 Add notes for pushing your branch:
 
@@ -294,7 +294,7 @@ Note that this will overwrite the old branch on the server, so make sure you are
 
 ## Community
 
-Do you have a mailing list, google group, slack channel, IRC channel? Link to them here.
+Do you have a mailing list, Google group, slack channel, IRC channel? Link to them here.
 
 > Anyone actively contributing to or using OpenOpps should join our [Mailing List](https://groups.google.com/forum/#!forum/openopps-platform).
 We also have a public Slack chat team. If you're interested in following along with the development process or have questions, feel free to [join us](https://openopps.slack.com).
