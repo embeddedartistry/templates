@@ -23,7 +23,7 @@ Provide an introductory paragraph, describing:
 1. [Contributing](#contributing)
 1. [License](#license)
 1. [Authors](#authors)
-1. [Acknowledgements](#acknowledgements)
+1. [Acknowledgments](#acknowledgements)
 
 # About the Project
 
@@ -59,7 +59,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Describe what software and libraries you will need to install in order to build and use this project. Provide details on how to resolve these dependencies.
 
-Remember: git-lfs is a dependency that developers will need to resolve before they can get started with a repo using LFS.
+Remember: `git-lfs` is a dependency that developers will need to resolve before they can get started with a repository using LFS.
 
 ```
 Examples should be included
@@ -67,8 +67,7 @@ Examples should be included
 
 ## Getting the Source
 
-Include a link to your github reposistory (you have no idea how people will findy our code), and also a summary of how to clone.
-
+Include a link to your GitHub repository (you have no idea how people will find your code), and also a summary of how to clone.
 
 This project is [hosted on GitHub](https://github.com/embeddedartistry/embedded-resources). You can clone this project directly using this command:
 
@@ -148,7 +147,7 @@ Provide links to other relevant documentation here
 
 # License
 
-Copyright (c) 2017 Embedded Artistry LLC
+Copyright (c) 2020 Embedded Artistry LLC
 
 This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) file for details.
 
@@ -164,8 +163,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 # Acknowledgments
 
-Provide proper credits, shoutouts, and honorable mentions here. Also provide links to relevant repositories, blog posts, or contributors worth mentioning.
+Provide proper credits, shout-outs, and honorable mentions here. Also provide links to relevant repositories, blog posts, or contributors worth mentioning.
 
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contributed in this project. If you used external code, link to the original source.
+Give proper credits. This could be a link to any repository which inspired you to build this project, any blog posts or links to people who contributed in this project. If you used external code, link to the original source.
 
 **[Back to top](#table-of-contents)**
