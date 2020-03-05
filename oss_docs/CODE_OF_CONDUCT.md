@@ -1,6 +1,6 @@
 # Contributor Code of Conduct
 
-**Version**: 1.0.2
+**Table of Contents:**
 
 * [Summary](#summary)
 * [Our Standards](#our-standards)
@@ -8,6 +8,8 @@
 * [Scope](#scope)
 * [Enforcement](#enforcement)
 * [Attribution](#attribution)
+
+**Version**: 1.0.2
 
 ## Summary
 
