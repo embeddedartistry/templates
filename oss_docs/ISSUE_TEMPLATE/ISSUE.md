@@ -3,7 +3,7 @@ name: Issue Report
 about: Use this template to report a problem
 title: "[VERSION] [PROBLEM SUMMARY]"
 labels: bug
-assignees: phillipjohnston
+assignees: 
 ---
 
 ## Expected Behavior
