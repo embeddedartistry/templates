@@ -22,5 +22,6 @@ Resources that can serve as inspiration for creating your own documentation:
 
 * [Open Source Contribution Guide](https://embeddedartistry.com/fieldatlas/open-source-contribution-guide/)
 * [Source Control Commit Guidelines](https://embeddedartistry.com/fieldatlas/source-control-commit-guidelines/)
+* [Code Change Control (CCC) Template](https://embeddedartistry.com/blog/2017/03/10/code-change-control-ccc-template/)
 * [Embedded Artistry's GitHub Process](https://embeddedartistry.com/fieldatlas/embedded-artistrys-github-process/)
 * [Embedded Artistry Code of Conduct](https://embeddedartistry.com/fieldatlas/embedded-artistry-code-of-conduct/)
