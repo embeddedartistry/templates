@@ -1,3 +1,11 @@
+---
+name: Issue Report
+about: Use this template to report a problem
+title: "[VERSION] [PROBLEM SUMMARY]"
+labels: bug
+assignees: phillipjohnston
+---
+
 ## Expected Behavior
 
 Please describe the behavior you are expecting
