@@ -1,21 +1,30 @@
-# Description
+## En quoi consiste cette PR
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+<!--
+  * Brève description de la tâche
+  * Peut simplement copier/coller la description du ticket Jira si assez détaillé
+-->
 
-Fixes # (issue)
+## Liste des changements/ajouts
 
-# How Has This Been Tested?
 
-Please describe the tests that you ran to verify your changes. Please also note any relevant details for your test configuration.
+1. ...
 
-- [ ] Test A
-- [ ] Test B
+## Comment tester
 
-# Checklist:
+<!--
+ * Un account, permission, produit
+ * Lien vers PetalWeb, autre app
+-->
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] Any dependent changes have been merged and published in downstream modules
+* ...
+
+## Liens, Images, Etc..
+
+<!--
+   * JIRA
+   * * Screenshot (Fortement recommandé)
+   * GIF (On peut toujours rêver)
+   * Zeplin
+   * Documentation, blog
+-->
