@@ -1,8 +1,10 @@
 # Embedded Artistry templates
 
-This repository contains templates that are useful for open-source projects, including:
+This repository contains templates that are useful for documenting projects projects, including:
 
-* Documentation (README, CONTRIBUTING, GitHub templates)
+* Common open-source documentation (README, CONTRIBUTING, GitHub templates)
+* Architecture documentation templates
+* "Business-level" documentation templates, such as stakeholder profiles, differentiation strategy, and risk profiles
 * Jenkins CI pipelines, showing both a "CI" build variant and a "nightly" build variant
 
 For more on project documentation:
