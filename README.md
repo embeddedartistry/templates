@@ -1,11 +1,17 @@
 # Embedded Artistry templates
 
-This repository contains templates that are useful for documenting projects projects, including:
+We like to keep our documentation under revision control and in the same repository as our source code. These templates reflect some of the different types of documentation that we typically include on our projects:
 
 * Common open-source documentation (README, CONTRIBUTING, GitHub templates)
-* Architecture documentation templates
+* Architecture and requirements documentation templates
 * "Business-level" documentation templates, such as stakeholder profiles, differentiation strategy, and risk profiles
 * Jenkins CI pipelines, showing both a "CI" build variant and a "nightly" build variant
+
+We hope these templates enable you to write better documentation for your own projects! 
+
+Updates, edits, and contributions are welcome from all.
+
+## References & Resources
 
 For more on project documentation:
 
