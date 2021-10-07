@@ -13,6 +13,7 @@ Updates, edits, and contributions are welcome from all.
 
 ## References & Resources
 
+
 For more on project documentation:
 
 * [Your Project is Great, So Let's Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
