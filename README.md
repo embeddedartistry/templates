@@ -33,3 +33,5 @@ Resources that can serve as inspiration for creating your own documentation:
 * [Code Change Control (CCC) Template](https://embeddedartistry.com/blog/2017/03/10/code-change-control-ccc-template/)
 * [Embedded Artistry's GitHub Process](https://embeddedartistry.com/fieldatlas/embedded-artistrys-github-process/)
 * [Embedded Artistry Code of Conduct](https://embeddedartistry.com/fieldatlas/embedded-artistry-code-of-conduct/)
+
+#end
