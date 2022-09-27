@@ -1,7 +1,7 @@
 # Embedded Artistry templates
 
 We like to keep our documentation under revision control and in the same repository as our source code. These templates reflect some of the different types of documentation that we typically include on our projects:
-
+* Create a new line
 * Common open-source documentation (README, CONTRIBUTING, GitHub templates)
 * Architecture and requirements documentation templates
 * "Business-level" documentation templates, such as stakeholder profiles, differentiation strategy, and risk profiles
