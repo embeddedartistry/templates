@@ -1,16 +1,5 @@
 import requests
 
-# Configura tus credenciales de GitHub
-username = "tu_usuario_de_github"
-token = "tu_token_de_acceso"  # Puedes generar un token de acceso en GitHub
-
-# Nombre del repositorio y usuario/organización
-repo_owner = "nombre_usuario_o_organizacion"
-repo_name = "nombre_del_repositorio"
-
-# URL base de la API de GitHub
-base_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}"
-
 # Encabezados para la autenticación con el token de acceso
 headers = {
     "Authorization": f"token {token}"
@@ -27,7 +16,7 @@ if response.status_code == 400:
     for branch in branches_data:
         print(branch["name"])
 else:
-    print(f"Error al obtener la lista de branches: {response.status_code}")
+    print(f"Error al obtener la lista de ramitas: {response.status_code}")
 
 # Obtener la lista de commits
 commits_url = f"{base_url}/commits"
