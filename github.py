@@ -20,7 +20,8 @@ headers = {
 branches_url = f"{base_url}/branches"
 response = requests.get(branches_url, headers=headers)
 
-if response.status_code == 200:
+#CAMBIOS
+if response.status_code == 400:
     branches_data = response.json()
     print("Branches en el repositorio:")
     for branch in branches_data:
@@ -32,7 +33,8 @@ else:
 commits_url = f"{base_url}/commits"
 response = requests.get(commits_url, headers=headers)
 
-if response.status_code == 200:
+#CAMBIOS
+if response.status_code == 400:
     commits_data = response.json()
     print("\nÚltimos commits en el repositorio:")
     for commit in commits_data[:5]:  # Muestra los 5 commits más recientes
@@ -40,14 +42,4 @@ if response.status_code == 200:
 else:
     print(f"Error al obtener la lista de commits: {response.status_code}")
 
-# Obtener la lista de merges
-merges_url = f"{base_url}/pulls"
-response = requests.get(merges_url, headers=headers)
 
-if response.status_code == 200:
-    merges_data = response.json()
-    print("\nPull Requests (Merges) en el repositorio:")
-    for merge in merges_data[:5]:  # Muestra los 5 primeros pull requests
-        print(merge["number"], merge["title"])
-else:
-    print(f"Error al obtener la lista de Pull Requests: {response.status_code}")
